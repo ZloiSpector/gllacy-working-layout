@@ -1,0 +1,334 @@
+@media screen and (max-width: 1200px) {
+    .landing {
+        width: 1140px;
+    }
+
+    .icecream-stock-box {
+        width: 48%;
+        height: 163.88px;
+        padding: 18px;
+        margin-bottom: 20px;
+    }
+
+    .icecream-btn {
+        font-size: 14px;
+    }
+
+    .icecream-stock-box-text {
+        margin-top: 15px;
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    .icecream-heading {
+        font-size: 25px;
+    }
+
+    .icecream-price-box {
+        height: 254.57px;
+    }
+
+    .price-rub {
+        font-size: 35.55px;
+    }
+
+    .price-text {
+        font-size: 12.6px;
+    }
+
+    .benefits-text {
+        font-size: 12.6px;
+    }
+
+    .info-benefits h4 {
+        font-size: 18.7px;
+    }
+
+    .info-box {
+        width: 436.8px;
+    }
+
+    .form-subscribe {
+        width: 429px;
+
+        p {
+            font-size: 12.6px;
+        }
+    }
+
+    .subscribe-input {
+        width: 287px;
+        height: 34.3px;
+    }
+
+    .subscribe-btn {
+        width: 99.06px;
+        height: 34.3px;
+        font-size: 14px;
+    }
+
+    .header-name-icecream {
+        margin-top: 212px;
+        font-size: 46.8px;
+    }
+}
+
+@media screen and (max-width: 1199px) {
+    .landing {
+        width: 960px;
+    }
+}
+
+@media screen and (max-width: 991px) {
+    .landing {
+        width: 720px;
+    }
+
+    .logo-svg {
+        width: 120px;
+        height: 49.9px;
+    }
+
+    .link-text {
+        font-size: 0.78em;
+    }
+
+    .header-name-icecream {
+        margin-top: 165px;
+    }
+
+    .header-btn {
+        width: 218.4px;
+        height: 49.9px;
+    }
+
+    .header-btn-text {
+        font-size: 24.96px;
+    }
+
+    .icecream-stock-box {
+        height: 131px;
+        padding: 8px;
+    }
+
+    .icecream-stock-box-text {
+        margin-top: 5px;
+        font-weight: 500;
+        font-size: 13px;
+    }
+
+    .icecream-btn {
+        font-size: 14px;
+        bottom: 8px;
+        right: 8px;
+    }
+
+    .icecream-heading {
+        font-size: 25px;
+    }
+
+    .icecream-price-box {
+        height: 198.56px;
+    }
+
+    .price-rub {
+        font-size: 27.73px;
+    }
+
+    .price-text {
+        font-size: 9px;
+    }
+
+    .info-benefits {
+        padding: 10px;
+    }
+
+    .info-benefits-box {
+        flex-wrap: nowrap;
+        flex-direction: column;
+    }
+
+    .benefits-text {
+        width: 100%;
+    }
+
+    .info-box-news {
+        background-position: center;
+        width: 20%;
+        padding: 5px;
+
+        h5 {
+            display: none;
+        }
+
+        p {
+            font-size: 16px;
+            text-align: center;
+        }
+    }
+
+    .footer-social {
+        grid-template: 1fr 1fr / 1fr 1fr;
+    }
+
+    .footer-info {
+        align-self: center;
+    }
+
+    .htmlacademy {
+        align-self: center;
+    }
+}
+
+@media screen and (max-width: 720px) {
+    .landing {
+        width: 540px;
+    }
+
+    .logo {
+        display: none;
+    }
+
+    .header-btn-link {
+        height: 23px;
+        width: 69.7px;
+    }
+
+    .header-btn-link-active {
+        height: 23px;
+        width: 69.7px;
+    }
+
+    .header-search-box {
+        width: 23px;
+        height: 23px;
+    }
+
+    .header-nav-buttons {
+        min-width: 180px;
+    }
+
+    .header-name-icecream {
+        margin-top: 90px;
+        font-size: 32px;
+        line-height: 30px;
+    }
+
+    .header-btn {
+        width: 154px;
+        height: 35px;
+    }
+
+    .header-btn-text {
+        font-size: 17.5px;
+    }
+
+    .header-icecream {
+        margin-bottom: 20px;
+    }
+
+    .header-swiching-btn {
+        width: 14.7px;
+        height: 14.7px;
+    }
+
+    .icecream-stock {
+        flex-direction: column;
+    }
+
+    .icecream-stock-box {
+        width: 100%;
+    }
+
+    .icecream-price {
+        margin-top: 0px;
+        align-items: center;
+        flex-wrap: wrap;
+        justify-content: space-around;
+    }
+
+    .icecream-price-box {
+        width: 35%;
+        background-size: 90%;
+        margin-bottom: 20px;
+    }
+
+    .info-benefits {
+        margin-top: 10px;
+
+        h4 {
+            font-size: 16px;
+        }
+    }
+
+    .benefits-text::before {
+        display: none;
+    }
+
+    .benefits-text {
+        padding-left: 0px;
+        margin-top: 10px;
+    }
+
+    .info-boxes {
+        flex-direction: column;
+        align-items: center;
+        margin-top: 10px;
+    }
+
+    .info-box-subscribe {
+        margin-top: 0px;
+        width: 486px;
+    }
+
+    .form-subscribe {
+        width: 476px;
+    }
+
+    .info-box-news {
+        background-position: center;
+        width: 486px;
+        height: 60px;
+        padding: 5px;
+        margin-bottom: 20px;
+
+        h5 {
+            display: block;
+        }
+
+        p {
+            font-size: 16px;
+            text-align: left;
+        }
+    }
+
+    .footer-social {
+        align-self: center;
+        grid-column-gap: 5px;
+    }
+
+    .social {
+        width: 25px;
+        height: 25px;
+    }
+
+    .footer-info {
+        grid-column-gap: 10px;
+        margin-left: 10px;
+    }
+
+    .footer-info-link {
+        font-size: 10px;
+    }
+
+    .htmlacademy-text {
+        font-size: 10px;
+    }
+}
+
+@media screen and (max-width: 575px) {
+    .landing {
+        padding: 5px;
+        width: 100%;
+    }
+}

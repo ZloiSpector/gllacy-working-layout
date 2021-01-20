@@ -1,0 +1,19 @@
+{
+"camelcase": true,
+"indent" : 2,
+"trailing": true,
+"curly" : true,
+"node" : true,
+"eqeqeq" : false,
+"immed" : true,
+"latedef" : true,
+"newcap" : true,
+"noempty" : true,
+"undef" : true,
+"funcscope" : false,
+"strict": false,
+"browser": true,
+"jquery" : true,
+"maxlen" : 80,
+"esversion": 6
+}
