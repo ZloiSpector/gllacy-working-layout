@@ -322,3 +322,34 @@
     width: 100%;
   }
 }
+@media screen and (max-width: 485px) {
+  .form-subscribe {
+    width: auto;
+    height: auto;
+  }
+  .form-subscribe p {
+    padding: 10px;
+  }
+  .form-subscribe input {
+    margin-top: 20px;
+    margin-left: 10px;
+    margin-bottom: 10px;
+    width: 100%;
+    max-width: -webkit-max-content;
+    max-width: max-content;
+  }
+
+  .info-box {
+    width: auto;
+    height: auto;
+  }
+
+  .footer-info {
+    grid-template: 1fr 1fr 1fr 1fr/1fr;
+  }
+
+  .nav-link {
+    font-size: 0.6em;
+    text-align: center;
+  }
+}
